@@ -1,8 +1,12 @@
 # Analysis of r/EDC
 
-## Project description
+Analysis of everyday carry (EDC) items shared by the r/EDC community
 
-The subreddit r/EDC is a community where people share the items they carry every day. This project aims to analyze trends in the items people include in their everyday carry (EDC) setups.
+## Methodology
+
+1. Process pre-scraped data of r/EDC into a PostgreSQL database
+2. Uses Python and OpenAI API to extract and classify items from the top 200 posts from each year
+3. Power BI dashboard is created to visualize the analysis
 
 ## Technologies used
 
@@ -10,12 +14,6 @@ The subreddit r/EDC is a community where people share the items they carry every
 - Python
 - OpenAI API
 - Power BI
-
-## General methodology
-
-1. Process pre-scraped data of r/EDC into a PostgreSQL database
-2. Uses Python and OpenAI API to extract and classify items from the top 200 posts from each year
-3. Power BI dashboard is created to visualize the analysis
 
 ## Screenshots
 
