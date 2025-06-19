@@ -1,4 +1,4 @@
-# Analysis of Everyday Carry Items from r/EDC
+# Analysis of r/EDC
 
 ## Project description
 
